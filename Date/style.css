@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+    padding: 50px;
+    background-image: url('../Images/banniere.jpg');
+    background-size: cover;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
